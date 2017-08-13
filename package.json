@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/yakhinvadim/longman-register-to-anki/issues"
     },
-    "homepage": "https://github.com/yakhinvadim/longman-register-to-anki#readme"
+    "homepage": "https://github.com/yakhinvadim/longman-register-to-anki#readme",
+    "dependencies": {
+        "isomorphic-fetch": "^2.2.1"
+    }
 }
